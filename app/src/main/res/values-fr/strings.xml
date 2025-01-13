@@ -8,7 +8,7 @@
     <string name="good_afternoon">Bon après-midi</string>
     <string name="good_evening">Bonsoir</string>
     <string name="good_night">Bonne nuit ?</string>
-    <string name="hey_hi">Hey, Bonjour! 🤗</string>
+    <string name="hey_hi">Hey, Bonjour\\uD83D\\uDC4B</string>
     <string name="default_shelf">Par défaut</string>
     <string name="default_panel_desc">Panneau par défaut</string>
     <string name="saved_links">Liens sauvegardés</string>
